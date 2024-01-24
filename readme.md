@@ -4,8 +4,8 @@
     Lembre-se que este é meu entendimento sobre Clean Arch, e pode variar de acordo com diferentes perspectivas e interpretações.
 
 ## Proposal
-     Estudando Proposta de Arquitetura Limpa para o Dart/Flutter desenvolvida pela comunidade Flutterando    
-    [Clean Dart Propasal Github](https://github.com/Flutterando/Clean-Dart)
+Estudando Proposta de Arquitetura Limpa para o Dart/Flutter desenvolvida pela comunidade Flutterando    
+[Clean Dart Propasal Github](https://github.com/Flutterando/Clean-Dart)
 
     - 4 Camadas principais e idependentes
     ---
