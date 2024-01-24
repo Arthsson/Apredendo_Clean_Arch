@@ -1,8 +1,7 @@
 # Estudando Clean Arch
 
-    Este repositório contem meus estudos e códigos sobre clean arch, através de vídeos, artigos, livros, repositories etc I.A, focando em 
-    Flutter (Enquanto ele existir!).
-    Lembre-se que este é meu entendimento sobre Clean Arch, e pode variar de acordo com diferentes perspectivas e interpretações.
+Este repositório contem meus estudos e códigos sobre clean arch, através de vídeos, artigos, livros, repositories etc I.A, focando em Flutter (Enquanto ele existir!).
+Lembre-se que este é meu entendimento sobre Clean Arch, e pode variar de acordo com diferentes perspectivas e interpretações.
 
 ## Proposal
 Estudando Proposta de Arquitetura Limpa para o Dart/Flutter desenvolvida pela comunidade Flutterando    
