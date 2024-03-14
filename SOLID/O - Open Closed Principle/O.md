@@ -1,6 +1,5 @@
 # Princípio Aberto/Fechado (OCP)
 
-
 ## Definição
 
 Estabelece que as entidades de software (classes, módulos, funções, etc.) devem estar abertas para extensão, mas fechadas para modificação. Isso significa que uma entidade deve permitir a extensão de seu comportamento sem alterar seu código-fonte.
