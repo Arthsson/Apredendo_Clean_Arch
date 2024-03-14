@@ -25,7 +25,7 @@ Essa camada pode ser dada como uma camada de suporte para camadas mais altas(Use
 Todas as abstrações das camadas superiores são aproveitadas nessa, na facilidadde do plug and play dos artefatos externos como um BD ou uma interface gráfica, todas as alterações aqui devem ser seguras para as camadas de nível mais alto, na construção de nossa casa seriam como as ferramentas, pregos, colas e etc para a construção da casa.
 --- 
 - Complementos
--SOLID(Principio de inversão de dependencias)
-D — Dependency Inversion Principle (Princípio da inversão da dependência) 
-Evitar depedencias diretas entre as camadas de baixo e alto nível, fazendo a comunicação através de abstrações, protegendo o código de alto nível.
+- SOLID(Principio de inversão de dependencias)
+    - D — Dependency Inversion Principle (Princípio da inversão da dependência) 
+    Evitar depedencias diretas entre as camadas de baixo e alto nível, fazendo a comunicação através de abstrações, protegendo o código de alto nível.
                     
